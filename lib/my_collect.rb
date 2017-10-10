@@ -6,5 +6,5 @@ def my_collect(collection)
     new_collection << collection[i]
     i = i + 1
   end
-  collection
+  new_collection
 end
